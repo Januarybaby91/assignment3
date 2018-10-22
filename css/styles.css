@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-family: helvetica;
+}
+
+body {
+    background-color: #c7fadb;
+}
+
+.logo {
+    height: 7em;
+}
+
+header {
+    align-items: center;
+
+
+}
