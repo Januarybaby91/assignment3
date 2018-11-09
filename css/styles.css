@@ -24,4 +24,4 @@ header nav ul{display:flex; justify-content: flex-end; word-spacing:2px;}
 header nav ul {
     list-style-type: none; padding 1em;
 }
-header nav ul li a {text-decoration: none; text-transform: uppercase; }
+header nav ul li a {text-decoration: none; text-transform: uppercase;padding: 1em;}
